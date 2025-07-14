@@ -1,0 +1,44 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.onnx
+*.joblib
+*.sav
+
+# Dataset files (if very large, comment out if you want to upload them)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# PHP uploads / config (optional)
+uploads/
+.env
